@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kirapoi14)](https://github.com/Kirapoi14/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kirapoi14)
+![:name](https://count.getloli.com/@:kirapoi14)
 
 <!--
 **Kirapoi14/Kirapoi14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
