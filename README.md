@@ -1,10 +1,14 @@
 <h1 align="center">Hi, this is Yuzu 👋</h1>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Kirapoi14&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" height="180" alt="Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kirapoi14&theme=tokyonight" height="180" alt="Streak" />
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Kirapoi14&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" height="180" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kirapoi14&theme=tokyonight" height="180" alt="Streak" />
+</div>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kirapoi14&layout=compact&theme=tokyonight&langs_count=6" height="180" alt="Top Langs" />
-<img src="https://count.getloli.com/@:kirapoi14" alt=":kirapoi14" />
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kirapoi14&layout=compact&theme=tokyonight&langs_count=6" height="180" alt="Top Langs" />
+  <img src="https://count.getloli.com/@:kirapoi14" alt=":name" />
+</div>
 
 <!--
 **Kirapoi14/Kirapoi14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
