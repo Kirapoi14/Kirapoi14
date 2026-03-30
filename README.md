@@ -1,9 +1,11 @@
 <h1 align="center">Hi, this is Yuzu 👋</h1>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Kirapoi14&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" height="180" alt="Stats" />/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Kirapoi14&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" height="180" alt="Stats" />
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kirapoi14&theme=tokyonight" height="180" alt="Streak" />
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kirapoi14&layout=compact&theme=tokyonight&langs_count=6" height="180" alt="Top Langs" />
+
 <img src="https://count.getloli.com/@:kirapoi14" alt=":kirapoi14" />
 
 <!--
