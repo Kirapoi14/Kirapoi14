@@ -1,4 +1,4 @@
-<h1 align="center">Hi, this is Yuuko 👋</h1>
+<h1 align="center">Hi, this is Yuko 👋</h1>
 
 <div style="display: flex; justify-content: space-between; align-items: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Kirapoi14&theme=dark&show_icons=true&include_all_commits=true&count_private=true" height="180" alt="Stats" />
