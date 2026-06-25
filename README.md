@@ -2,7 +2,7 @@
 
 <h2>📊 Statistics</h2>
 
-<div style="display: flex; justify-content: column; align-items: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
+<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 20px; margin-bottom: 20px;">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Kirapoi14&theme=dark&show_icons=true&include_all_commits=true&count_private=true" height="180" alt="Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kirapoi14&theme=dark" height="180" alt="Streak" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kirapoi14&layout=compact&theme=dark&langs_count=6" height="180" alt="Top Langs" />
