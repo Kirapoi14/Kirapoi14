@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kirapoi14&layout=compact&theme=dark&langs_count=6" height="180" alt="Top Langs" />
-  <img src="https://count.getloli.com/@:kirapoi14" height="180" alt=":name" />
+  <img src="https://count.getloli.com/@:kirapoi14?theme=gelbooru" height="180" alt=":name" />
 </p>
 
 <!--
