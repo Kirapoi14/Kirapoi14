@@ -1,10 +1,6 @@
-<img src=".github/banner.png" />
+<h1 align="center">Hi, Yuko desu 👋</h1>
 
-<h1 align="center">
-  Hi, Yuko desu 👋
-  <br><br>
-  <img src="https://count.getloli.com/@:kirapoi14" height="180" alt=":name" />
-</h1>
+<img src=".github/banner.png" />
 
 <h2>📊 Statistics</h2>
 
@@ -15,6 +11,7 @@
   <br>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kirapoi14&layout=compact&theme=dark&langs_count=6" height="180" alt="Top Langs" />
   <br>
+  <img src="https://count.getloli.com/@:kirapoi14?theme=gelbooru" height="180" alt=":name" />
 </div>
 
 <!--
