@@ -1,8 +1,9 @@
 <img src=".github/banner.png" />
 
 <h1 align="center">
-  Hi, Yuko desu 👋<br>
-  <img src="https://count.getloli.com/@:kirapoi14?theme=gelbooru" height="180" alt=":name" />
+  Hi, Yuko desu 👋
+  <br><br>
+  <img src="https://count.getloli.com/@:kirapoi14" height="180" alt=":name" />
 </h1>
 
 <h2>📊 Statistics</h2>
