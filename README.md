@@ -8,10 +8,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kirapoi14&theme=dark" height="180" alt="Streak" />
 </div>
 
-<div style="display: flex; justify-content: space-between; align-items: center; gap: 20px; flex-wrap: wrap;">
+<p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kirapoi14&layout=compact&theme=dark&langs_count=6" height="180" alt="Top Langs" />
-  <img src="https://count.getloli.com/@:kirapoi14?theme=gelbooru" height="180" alt=":name" />
-</div>
+  <img src="https://count.getloli.com/@:kirapoi14" height="180" alt=":name" />
+</p>
 
 <!--
 **Kirapoi14/Kirapoi14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
