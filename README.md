@@ -1,6 +1,6 @@
 <h1 align="center">Hi, Yuko desu 👋</h1>
 
-<img src=".github/banner.jpg" />
+<img src=".github/banner.png" />
 
 <h2>📊 Statistics</h2>
 
