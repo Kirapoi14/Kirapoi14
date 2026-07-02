@@ -2,7 +2,7 @@
 
 <img src=".github/banner.png" />
 
-<h2>📊 Statistics</h2>
+<h2>📊 Github Stats</h2>
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Kirapoi14&theme=dark&show_icons=true&include_all_commits=true&count_private=true" height="180" alt="Stats" />
