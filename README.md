@@ -2,7 +2,7 @@
 
 <img src=".github/banner.png" />
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Kirapoi14&theme=dark&show_icons=true&include_all_commits=true&count_private=true" height="180" alt="Stats" />
@@ -12,11 +12,15 @@
   <img src="https://count.getloli.com/@:kirapoi14?theme=gelbooru" height="180" alt=":name" />
 </div>
 
-### 🛠️ Tech Stack
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,cmake,matlab,kali,py,ts,mysql,docker" />
 </div>
+
+---
 
 <!--
 **Kirapoi14/Kirapoi14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
