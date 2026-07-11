@@ -12,15 +12,11 @@
   <img src="https://count.getloli.com/@:kirapoi14?theme=gelbooru" height="180" alt=":name" />
 </div>
 
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,cmake,matlab,kali,py,ts,mysql,docker" />
 </div>
-
----
 
 <!--
 **Kirapoi14/Kirapoi14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
