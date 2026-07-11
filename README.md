@@ -2,7 +2,7 @@
 
 <img src=".github/banner.png" />
 
-<h2>📊 GitHub Stats</h2>
+### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Kirapoi14&theme=dark&show_icons=true&include_all_commits=true&count_private=true" height="180" alt="Stats" />
@@ -10,6 +10,12 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kirapoi14&layout=compact&theme=dark&langs_count=6" height="180" alt="Top Langs" />
   <br>
   <img src="https://count.getloli.com/@:kirapoi14?theme=gelbooru" height="180" alt=":name" />
+</div>
+
+### 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cmake,matlab,kali,py,ts,mysql,docker" />
 </div>
 
 <!--
