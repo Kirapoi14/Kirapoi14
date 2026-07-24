@@ -17,7 +17,7 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cmake,matlab,kali,ts,tensorflow,bash,mysql,docker" />
+  <img src="https://skillicons.dev/icons?i=c,cmake,matlab,kali,vue,tensorflow,bash,mysql,docker" />
 </div>
 
 <!--
