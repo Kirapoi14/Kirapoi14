@@ -1,4 +1,4 @@
-<h1 align="center">Hi, Cola desu 👋</h1>
+<h1 align="center">Hi, Coco desu 👋</h1>
 
 <div align="center">
   <img src=".github/banner.png" />
