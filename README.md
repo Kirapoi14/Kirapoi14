@@ -1,4 +1,4 @@
-<h1 align="center">Hi, Setsuka desu 👋</h1>
+<h1 align="center">Hi, I'm Snowplus 👋</h1>
 
 <div align="center">
   <img src=".github/banner.png" />
