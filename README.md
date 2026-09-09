@@ -13,7 +13,7 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=kali,c,ts,haskell,matlab,mysql,docker" />
+  <img src="https://skillicons.dev/icons?i=kali,c,ts,matlab,haskell,mysql,docker" />
 </div>
 
 <!--
